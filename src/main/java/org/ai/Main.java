@@ -1,9 +1,11 @@
 package org.ai;
 
+
 import org.ai.fuzzy.FuzzyRules;
 
 import java.util.Scanner;
 
+//А Fuzzy Logc Main
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
